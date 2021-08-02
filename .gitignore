@@ -3,3 +3,5 @@
 
 # Pro IntelliJ IDEA:
 *.iml
+out/*
+.idea/*
