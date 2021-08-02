@@ -1,0 +1,5 @@
+# .gitignore je textový soubor
+# řádky, které začínají # jsou komentáře
+
+# Pro IntelliJ IDEA:
+*.iml
