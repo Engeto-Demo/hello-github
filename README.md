@@ -2,6 +2,6 @@
 
 Tento soubor je ve formátu MarkDown -> Google: Markdown syntax.
 - Umožňuje základní formátování
-- Třeba odrážky
+- Třeba odrážky (seznam s odrážkami)
 
 Připsal jsem další řádek kódu - otestuji změnu v lokálním repozitáři.
